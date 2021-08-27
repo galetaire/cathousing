@@ -1,0 +1,30 @@
+---
+title: Evolució del preu anual de l'habitatge
+date: 2021-08-01
+description: Dades sobre l'evolució del preu de l'habitatge. Amb el preu en euros per m2 ajustat a la inflació, sense ajustar, i amb la suma en euros de la inflació acumulada.
+tag: Preu
+author: Galetaire
+---
+
+import Image from 'next/image'
+
+# Evolució del preu anual de l'habitatge
+
+<Image
+  src="/images/preuhistoric.png"
+  alt="Photo"
+  width={1388}
+  height={604}
+  priority
+  className="next-image"
+/>
+
+- **Preu històric de l'habitatge a Catalunya**: en euros per m2, ajustat a la inflació, sense ajustar, i suma en euros de la inflació acumulada.
+
+# Interpretació i observacions
+
+La gràfica superior mostra el preu mitjà anual de l'habitatge a Catalunya. Algunes breus observacions:
+
+- **Observació A**: El preu de l'habitatge va en constant augment a causa de la inflació, conseqüència de la política monetària actual.
+- **Observació B**: L'augment en el preu de l'habitatge no és lineal, sinó que es mou en cicles, amb moments d'expansió i recessió, molt vinculats als cicles de deute.
+- **Observació C**: Aquests cicles són fàcilment visibles si observam la línia que representa el preu ajustat a la inflació (preu sense inflació). I que per exemple ens permet veure la magnitud de la bombolla immobiliària dels primers anys del segle 21.
