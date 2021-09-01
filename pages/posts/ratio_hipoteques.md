@@ -2,7 +2,7 @@
 title: Ràtio entre hipoteques i compravendes
 date: 2021-08-01
 description: Dades sobre la relació entre el nombre d'hipoteques i el nombre de compravendes. Aquestes dades ens permeten saber si hi ha bombolles creditícies.
-tag: Crèdit, Volum
+tag: Credit, Volume
 author: Galetaire
 ---
 

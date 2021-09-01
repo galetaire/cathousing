@@ -2,7 +2,7 @@
 title: Model complet del mercat de l'habitatge
 date: 2021-08-01
 description: Dades sobre l'evolució del mercat d'habitatge. El model consta de sis variables principals (preu, inflació, compravendes, crèdit, demografia i ocupació).
-tag: Preu, Volum, Crèdit, Ocupació, Demografia
+tag: Price, Volume, Credit, Labor, Demography
 author: Galetaire
 ---
 

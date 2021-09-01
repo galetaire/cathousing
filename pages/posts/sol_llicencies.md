@@ -2,7 +2,7 @@
 title: Evolució del preu del sòl i de les llicències d'obra
 date: 2021-08-01
 description: Dades sobre l'evolució del preu del sòl i del nombre de llicències d'obra, segons si són per a obra nova, rehabilitacions o demolicions.
-tag: Preu, Volum
+tag: Price, Volume
 author: Galetaire
 ---
 

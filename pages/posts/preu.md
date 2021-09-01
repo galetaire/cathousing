@@ -2,7 +2,7 @@
 title: Evolució del preu trimestral de l'habitatge
 date: 2021-08-01
 description: Dades sobre l'evolució del preu de l'habitatge. Tot comparant les dades publicades pel col·legi de notaris i les dades publicades per Idealista.
-tag: Preu
+tag: Price
 author: Galetaire
 ---
 

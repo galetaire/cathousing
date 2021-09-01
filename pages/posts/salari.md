@@ -2,7 +2,7 @@
 title: Relació entre sous i hipoteques
 date: 2021-08-01
 description: Dades sobre la mediana salarial i la seva relació amb l'import mitjà de les hipoteques. Aquesta comparació ens mostra si hi ha desconnexió salarial.
-tag: Ocupació, Crèdit
+tag: Labor, Credit
 author: Galetaire
 ---
 

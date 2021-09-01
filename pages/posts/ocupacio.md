@@ -2,7 +2,7 @@
 title: Relació entre atur i preu
 date: 2021-08-01
 description: Dades sobre el nombre d'aturats i la seva relació amb l'índex del preu de l'habitatge. L'augment de l'atur sempre ha provocat estancament o caiguda del preu.
-tag: Ocupació, Preu
+tag: Labor, Price
 author: Galetaire
 ---
 

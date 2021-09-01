@@ -2,7 +2,7 @@
 title: Evolució de les compravendes
 date: 2021-08-01
 description: Dades sobre l'evolució del nombre de compravendes. A major volum de transaccions, el preu de l'habitatge tendeix a augmentar.
-tag: Volum
+tag: Volume
 author: Galetaire
 ---
 

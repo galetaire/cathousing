@@ -2,7 +2,7 @@
 title: Compravenda segons tipus de comprador
 date: 2021-08-01
 description: Dades sobre la distribució de les compravendes segons si el comprador és persona física (nacional o estranger) o persona jurídica.
-tag: Volum
+tag: Volume
 author: Galetaire
 ---
 

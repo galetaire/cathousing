@@ -2,7 +2,7 @@
 title: Compravendes i població en edat de compra
 date: 2021-08-01
 description: Dades sobre l'evolució del nombre de compravendes en relació amb la població en edat de compra, que és aquella entre els 25 i 50 anys.
-tag: Demografia, Volum
+tag: Demography, Volume
 author: Galetaire
 ---
 

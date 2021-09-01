@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Indicadors estadístics 📉
+title: Statistical indicators 📉
 date: 2021-07-10
 ---
 
-# Indicadors estadístics 📉
+# Statistical indicators 📉

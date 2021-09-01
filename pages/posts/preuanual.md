@@ -2,7 +2,7 @@
 title: Evolució del preu anual de l'habitatge
 date: 2021-08-01
 description: Dades sobre l'evolució del preu de l'habitatge. Amb el preu en euros per m2 ajustat a la inflació, sense ajustar, i amb la suma en euros de la inflació acumulada.
-tag: Preu
+tag: Price
 author: Galetaire
 ---
 

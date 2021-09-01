@@ -2,7 +2,7 @@
 title: Evolució del nombre d'habitatges
 date: 2021-08-01
 description: Dades sobre el nombre d'habitatges creats anualment, així com de la ràtio d'habitatges per cada 1000 habitants.
-tag: Volum
+tag: Volume
 author: Galetaire
 ---
 

@@ -2,7 +2,7 @@
 title: Rendibilitat bruta en la compra d'habitatge
 date: 2021-08-01
 description: Dades sobre l'evolució de la rendibilitat bruta (sense descomptar impostos) de la compra d'habitatge, emprant una base anual.
-tag: Preu
+tag: Price
 author: Galetaire
 ---
 

@@ -2,7 +2,7 @@
 title: Superàvit o dèficit d'habitatges
 date: 2021-08-01
 description: Dades sobre el ritme de construcció d'habitatges, segons si ha estat un any de superàvit (es construeix més de pressa que no pas creix la població), o dèficit (la població creix més de pressa que no pas el ritme de construcció).
-tag: Volum
+tag: Volume
 author: Galetaire
 ---
 

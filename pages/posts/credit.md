@@ -2,7 +2,7 @@
 title: Evolució de les hipoteques
 date: 2021-08-01
 description: Dades sobre l'evolució del nombre d'hipoteques i l'import mitjà d'aquestes. El crèdit correlaciona molt bé amb l'evolució del preu de l'habitatge.
-tag: Crèdit
+tag: Credit
 author: Galetaire
 ---
 
