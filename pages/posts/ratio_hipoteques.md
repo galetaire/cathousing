@@ -1,5 +1,5 @@
 ---
-title: Ràtio entre hipoteques i compravendes
+title: Ratio between mortgages and home sales
 date: 2021-08-01
 description: Dades sobre la relació entre el nombre d'hipoteques i el nombre de compravendes. Aquestes dades ens permeten saber si hi ha bombolles creditícies.
 tag: Credit, Volume
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Ràtio entre hipoteques i compravendes
+# Ratio between mortgages and home sales
 
 <Image
   src="/images/ratiohipoteques.png"
@@ -23,7 +23,7 @@ import Image from 'next/image'
 - Si és superior a 1, hi ha més hipoteques que no compravendes, amb el perill d'una bombolla creditícia.
 - Si és inferior a 1, hi ha més compravendes que hipoteques, denotant que les compres al comptat guanyen presència.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 La situació actual del mercat immobiliari pel que fa al crèdit és molt diferent en relació amb la bombolla dels 2000. Actualment no hi ha bombolla creditícia, al contrari que llavors. Ni tampoc estam en una situació de gran nombre de compravendes, tot i que sembla que l'any 2021 acabarà en zona d'expansió.
 

@@ -1,5 +1,5 @@
 ---
-title: Evolució del nombre d'habitatges
+title: Evolution of the number of dwellings
 date: 2021-08-01
 description: Dades sobre el nombre d'habitatges creats anualment, així com de la ràtio d'habitatges per cada 1000 habitants.
 tag: Volume
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Evolució del nombre d'habitatges
+# Evolution of the number of dwellings
 
 <Image
   src="/images/nombrehabitatges.png"
@@ -22,7 +22,7 @@ import Image from 'next/image'
 - **Eix esquerre (barres)**: nombre total d'habitatges nous per any.
 - **Eix dret (línia)**: habitatges existents per cada 1000 habitants.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 A la gràfica superior es mostra el nombre d'habitatges nous construïts anualment des de l'any 1971. També es pot veure la ràtio d'habitatges per cada mil habitants. Algunes observacions:
 

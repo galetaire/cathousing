@@ -1,5 +1,5 @@
 ---
-title: Compravenda segons tipus de comprador
+title: Home sales by type of buyer
 date: 2021-08-01
 description: Dades sobre la distribució de les compravendes segons si el comprador és persona física (nacional o estranger) o persona jurídica.
 tag: Volume
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Compravenda segons tipus de comprador
+# Home sales by type of buyer
 
 <Image
   src="/images/tipuspersona.png"
@@ -19,7 +19,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-# Interpretació i observacions
+# Interpretation and observations
 
 A la gràfica superior veim la distribució percentual de les compravendes d'habitatges a Catalunya segons si el comprador és nacional, estranger o persona jurídica (empreses, fons d'inversió...). Així podem veure qui domina i qui retrodeceix en el mercat. Algunes observacions:
 

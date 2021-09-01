@@ -1,14 +1,14 @@
 ---
-title: Evolució de les hipoteques
+title: Evolution of mortgages
 date: 2021-08-01
-description: Dades sobre l'evolució del nombre d'hipoteques i l'import mitjà d'aquestes. El crèdit correlaciona molt bé amb l'evolució del preu de l'habitatge.
+description: Data on the evolution of the number of mortgages and their average amount. Credit correlates very well with the evolution of house prices.
 tag: Credit
 author: Galetaire
 ---
 
 import Image from 'next/image'
 
-# Evolució de les hipoteques
+# Evolution of mortgages
 
 <Image
   src="/images/credit.png"
@@ -22,7 +22,7 @@ import Image from 'next/image'
 - **Eix esquerre (barres)**: nombre anual d'hipoteques constituïdes i cancel·lades.
 - **Eix dret (línia)**: import mitjà anual de les hipoteques, en euros.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 El crèdit correlaciona molt bé amb l'evolució del preu de l'habitatge. A tall d'exemple farem un parell d'interpretacions:
 

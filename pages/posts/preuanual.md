@@ -1,5 +1,5 @@
 ---
-title: Evolució del preu anual de l'habitatge
+title: Annual evolution of housing prices
 date: 2021-08-01
 description: Dades sobre l'evolució del preu de l'habitatge. Amb el preu en euros per m2 ajustat a la inflació, sense ajustar, i amb la suma en euros de la inflació acumulada.
 tag: Price
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Evolució del preu anual de l'habitatge
+# Annual evolution of housing prices
 
 <Image
   src="/images/preuhistoric.png"
@@ -21,7 +21,7 @@ import Image from 'next/image'
 
 - **Preu històric de l'habitatge a Catalunya**: en euros per m2, ajustat a la inflació, sense ajustar, i suma en euros de la inflació acumulada.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 La gràfica superior mostra el preu mitjà anual de l'habitatge a Catalunya. Algunes breus observacions:
 

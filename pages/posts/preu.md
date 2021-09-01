@@ -1,5 +1,5 @@
 ---
-title: Evolució del preu trimestral de l'habitatge
+title: Quarterly evolution of housing prices
 date: 2021-08-01
 description: Dades sobre l'evolució del preu de l'habitatge. Tot comparant les dades publicades pel col·legi de notaris i les dades publicades per Idealista.
 tag: Price
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Evolució del preu trimestral de l'habitatge
+# Quarterly evolution of housing prices
 
 <Image
   src="/images/preu.png"
@@ -22,7 +22,7 @@ import Image from 'next/image'
 - **Eix esquerre (línia)**: preu de l'habitatge en euros per m2, segons Idealista i Notaris.
 - **Eix dret (àrea)**: Percentatge de diferència absoluta entre els dos preus comparats.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 La gràfica superior compara els preus d'idealista i dels notaris. La tendència dels dos són molt semblants. El que canvia és que el preu notarial està sempre per sota, aquesta desavinença podria explicar-se al fet que el preu d'idealista mostra el preu proposat pel venedor, mentre que el notarial mostra el preu que realment ha pagat el comprador.
 

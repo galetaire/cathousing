@@ -1,5 +1,5 @@
 ---
-title: Relació entre atur i preu
+title: Relationship between unemployment and prices
 date: 2021-08-01
 description: Dades sobre el nombre d'aturats i la seva relació amb l'índex del preu de l'habitatge. L'augment de l'atur sempre ha provocat estancament o caiguda del preu.
 tag: Labor, Price
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Relació entre la taxa d'atur i el preu de l'habitatge
+# Relationship between unemployment and prices
 
 <Image
   src="/images/ocupacio.png"
@@ -22,7 +22,7 @@ import Image from 'next/image'
 - **Eix esquerre**: IPV, Índex del Preu de l'Habitatge, sense inflació (base 100 = 2000).
 - **Eix dret**: percentatge d'atur mitjà de cada any.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 La relació entre la taxa d'atur i el preu de l'habitatge és negativa, és a dir, quan la taxa d'atur augmenta el preu de l'habitatge descendeix, i a la inversa. I també és estadísticament rellevant, és a dir, aquest comportament és repetitiu en el temps. Si observam la gràfica superior podem distingir diversos períodes destacats:
 

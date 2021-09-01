@@ -1,5 +1,5 @@
 ---
-title: Evolució de les compravendes
+title: Evolution of home sales
 date: 2021-08-01
 description: Dades sobre l'evolució del nombre de compravendes. A major volum de transaccions, el preu de l'habitatge tendeix a augmentar.
 tag: Volume
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Evolució de les compravendes d'habitatges
+# Evolution of home sales
 
 <Image
   src="/images/compravenda.png"
@@ -22,7 +22,7 @@ import Image from 'next/image'
 - **Eix esquerre (barres)**: nombre total de compravendes de cada trimestre.
 - **Eix dret (línia)**: preu de l'habitatge en euros per m2, segons els notaris.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 A la gràfica superior veim el nombre de compravendes per trimestre representat en barres (eix esquerre). El color ens indica si el nombre de compravendes és més baix que el trimestre anterior (vermell), o més elevat (verd). La línia negra representa el preu notarial (eix dret). Així podem veure si el nombre de compravendes va en descens o en ascens, i veure com balla respecte del preu. Algunes observacions:
 

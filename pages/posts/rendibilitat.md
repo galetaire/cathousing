@@ -1,5 +1,5 @@
 ---
-title: Rendibilitat bruta en la compra d'habitatge
+title: Housing YoY appreciation, in nominal value
 date: 2021-08-01
 description: Dades sobre l'evolució de la rendibilitat bruta (sense descomptar impostos) de la compra d'habitatge, emprant una base anual.
 tag: Price
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Rendibilitat bruta de la compra d'habitatge
+# Housing YoY appreciation, in nominal value
 
 <Image
   src="/images/rendibilitat.png"
@@ -22,7 +22,7 @@ import Image from 'next/image'
 - **Barres**: les barres verdes denoten retorns percentuals positius i les barres vermelles retorns percentuals negatius.
 - **Línia vermella**: taxa d'inflació anual, representada en percentatges.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 A la gràfica superior veim la rendibilitat bruta anual en la compra d'habitatge, és a dir, si des del moment de la compra l'habitatge augmenta o disminueix el seu valor any rere any (aquesta gràfica no considera la possible rendibilitat per lloguer, que seria una altra font d'ingressos per a maximitzar la inversió en habitatge). Si observam la gràfica podem distingir diversos períodes destacats:
 

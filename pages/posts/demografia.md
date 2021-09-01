@@ -1,5 +1,5 @@
 ---
-title: Compravendes i població en edat de compra
+title: Home sales and demographic rhythm
 date: 2021-08-01
 description: Dades sobre l'evolució del nombre de compravendes en relació amb la població en edat de compra, que és aquella entre els 25 i 50 anys.
 tag: Demography, Volume
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Compravendes i ritme demogràfic
+# Home sales and demographic rhythm
 
 <Image
   src="/images/demografia.png"
@@ -21,7 +21,7 @@ import Image from 'next/image'
 
 - Compravendes (barres); població entre 25 i 50 anys (línies amb punts) i herències d'habitatges (línia porpra).
 
-# Com interpretar-ho?
+# Interpretation and observations
 
 L’indicador PEC — acrònim de Població en edat de compra; en anglès el podríem anomenar PAP, acrònim de Purchasing-age population —, és un indicador per a analitzar l’estat del mercat de l’habitatge.
 

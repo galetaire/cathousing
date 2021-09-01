@@ -1,5 +1,5 @@
 ---
-title: Superàvit o dèficit d'habitatges
+title: Housing surplus or deficit
 date: 2021-08-01
 description: Dades sobre el ritme de construcció d'habitatges, segons si ha estat un any de superàvit (es construeix més de pressa que no pas creix la població), o dèficit (la població creix més de pressa que no pas el ritme de construcció).
 tag: Volume
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Superàvit o dèficit d'habitatges
+# Housing surplus or deficit
 
 <Image
   src="/images/difhabitatges.png"
@@ -21,7 +21,7 @@ import Image from 'next/image'
 
 - Diferència entre Habitatges/Població. El color verd implica superàvit d'habitatges; i el vermell dèficit d'habitatges.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 A la gràfica superior es mostra el ritme de construcció d'habitatges, segons si ha estat un any de superàvit (es construeix més de pressa que no pas creix la població), o dèficit (la població creix més de pressa que no pas el ritme de construcció). Algunes observacions:
 

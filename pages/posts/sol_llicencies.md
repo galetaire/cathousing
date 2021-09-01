@@ -1,5 +1,5 @@
 ---
-title: Evolució del preu del sòl i de les llicències d'obra
+title: Price of land and building permits
 date: 2021-08-01
 description: Dades sobre l'evolució del preu del sòl i del nombre de llicències d'obra, segons si són per a obra nova, rehabilitacions o demolicions.
 tag: Price, Volume
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Evolució del preu del sòl i de les llicències d'obra
+# Price of land and building permits
 
 <Image
   src="/images/llicenciesobra.png"
@@ -33,7 +33,7 @@ import Image from 'next/image'
 
 - **Llicències segons tipus d'obra**: construcció (obra nova), rehabilitació o demolició.
 
-# Interpretació i observacions
+# Interpretation and observations
 
 A les gràfiques superiors es mostra el nombre de llicències d'obra anual (i el tipus d'obra), així com el preu del sòl a Catalunya per m2. Així podem veure si el nombre de llicències i el preu del sòl va en descens o en ascens. Algunes observacions:
 

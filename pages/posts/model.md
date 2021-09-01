@@ -1,5 +1,5 @@
 ---
-title: Model complet del mercat de l'habitatge
+title: Complete housing model, Catalonia
 date: 2021-08-01
 description: Dades sobre l'evolució del mercat d'habitatge. El model consta de sis variables principals (preu, inflació, compravendes, crèdit, demografia i ocupació).
 tag: Price, Volume, Credit, Labor, Demography
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Model complet del mercat de l'habitatge a Catalunya
+# Complete housing model, Catalonia
 
 <Image
   src="/images/model.png"
@@ -28,7 +28,7 @@ import Image from 'next/image'
 - **Crèdit**: variació percentual anual en el nombre d'hipoteques formalitzades, p.ex. +24% l'any 2015 (respecte de l'any 2014).
 - **Compravenda**: variació percentual anual en el nombre de compravendes, p.ex. -15% l'any 2011 (respecte de l'any 2010).
 
-# Com interpretar-ho?
+# Interpretation and observations
 
 El model general agrupa les sis variables que consider fonamentals per entendre el mercat de l'habitatge: preu, volum, inflació, crèdit, demografia i ocupació. Cal esmentar que totes les variables estan representades en percentatges, però hi ha dos blocs que s'han de llegir de manera diferent:
 
