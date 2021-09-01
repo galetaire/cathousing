@@ -1,7 +1,7 @@
 ---
 title: Quarterly evolution of housing prices
 date: 2021-08-01
-description: Dades sobre l'evolució del preu de l'habitatge. Tot comparant les dades publicades pel col·legi de notaris i les dades publicades per Idealista.
+description: Data on the evolution of housing prices. Comparing the data published by the association of notaries and the data published by Idealista.
 tag: Price
 author: Galetaire
 ---

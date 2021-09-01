@@ -1,7 +1,7 @@
 ---
 title: Relationship between unemployment and prices
 date: 2021-08-01
-description: Dades sobre el nombre d'aturats i la seva relació amb l'índex del preu de l'habitatge. L'augment de l'atur sempre ha provocat estancament o caiguda del preu.
+description: Data on the number of unemployed and its relation to the housing price index. Rising unemployment has always led to stagnation or falling prices.
 tag: Labor, Price
 author: Galetaire
 ---

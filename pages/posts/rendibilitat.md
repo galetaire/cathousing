@@ -1,7 +1,7 @@
 ---
-title: Housing YoY appreciation, in nominal value
+title: Housing YoY appreciation in nominal value
 date: 2021-08-01
-description: Dades sobre l'evolució de la rendibilitat bruta (sense descomptar impostos) de la compra d'habitatge, emprant una base anual.
+description: Data on the evolution of the gross profitability (excluding taxes) of home purchases, using an annual basis.
 tag: Price
 author: Galetaire
 ---

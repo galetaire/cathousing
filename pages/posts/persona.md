@@ -1,7 +1,7 @@
 ---
 title: Home sales by type of buyer
 date: 2021-08-01
-description: Dades sobre la distribució de les compravendes segons si el comprador és persona física (nacional o estranger) o persona jurídica.
+description: Data on the distribution of home sales according to whether the buyer is an individual (national or foreign) or a legal entity.
 tag: Volume
 author: Galetaire
 ---

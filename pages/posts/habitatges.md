@@ -1,7 +1,7 @@
 ---
 title: Evolution of the number of dwellings
 date: 2021-08-01
-description: Dades sobre el nombre d'habitatges creats anualment, així com de la ràtio d'habitatges per cada 1000 habitants.
+description: Data on the number of dwellings created annually, as well as the ratio of dwellings per 1,000 inhabitants.
 tag: Volume
 author: Galetaire
 ---

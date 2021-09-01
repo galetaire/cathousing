@@ -1,7 +1,7 @@
 ---
 title: Relationship between salary and mortgages
 date: 2021-08-01
-description: Dades sobre la mediana salarial i la seva relació amb l'import mitjà de les hipoteques. Aquesta comparació ens mostra si hi ha desconnexió salarial.
+description: Data on median wages and their relationship to the average mortgage amount. This comparison shows whether there is a wage disconnect.
 tag: Labor, Credit
 author: Galetaire
 ---

@@ -1,7 +1,7 @@
 ---
 title: Ratio between mortgages and home sales
 date: 2021-08-01
-description: Dades sobre la relació entre el nombre d'hipoteques i el nombre de compravendes. Aquestes dades ens permeten saber si hi ha bombolles creditícies.
+description: Data on the relationship between the number of mortgages and the number of home sales. These data allow us to determine whether there are credit bubbles.
 tag: Credit, Volume
 author: Galetaire
 ---

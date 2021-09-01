@@ -1,7 +1,7 @@
 ---
 title: Housing surplus or deficit
 date: 2021-08-01
-description: Dades sobre el ritme de construcció d'habitatges, segons si ha estat un any de superàvit (es construeix més de pressa que no pas creix la població), o dèficit (la població creix més de pressa que no pas el ritme de construcció).
+description: Data on the rate of housing builds, depending on whether it has been a year of surplus (rate of construction increases faster than population growth) or deficit (the population is growing faster than the rate of construction).
 tag: Volume
 author: Galetaire
 ---

@@ -1,7 +1,7 @@
 ---
 title: Home sales and demographic rhythm
 date: 2021-08-01
-description: Dades sobre l'evolució del nombre de compravendes en relació amb la població en edat de compra, que és aquella entre els 25 i 50 anys.
+description: Data on the evolution of the number of home sales in relation to the purchasing-age-population, which is between 25 and 50 years old.
 tag: Demography, Volume
 author: Galetaire
 ---

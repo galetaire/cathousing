@@ -1,7 +1,7 @@
 ---
 title: Annual evolution of housing prices
 date: 2021-08-01
-description: Dades sobre l'evolució del preu de l'habitatge. Amb el preu en euros per m2 ajustat a la inflació, sense ajustar, i amb la suma en euros de la inflació acumulada.
+description: Data on the evolution of housing prices. With the price in euros per m2 adjusted for inflation, unadjusted, and with the sum in euros of accumulated inflation.
 tag: Price
 author: Galetaire
 ---
