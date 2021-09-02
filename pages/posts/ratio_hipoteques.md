@@ -19,17 +19,12 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- Si la ràtio és igual a 1, hi ha tantes hipoteques com compravendes.
-- Si és superior a 1, hi ha més hipoteques que no compravendes, amb el perill d'una bombolla creditícia.
-- Si és inferior a 1, hi ha més compravendes que hipoteques, denotant que les compres al comptat guanyen presència.
+- **Ratio between mortgages and home sales**: if the ratio is 3, means there a 3 mortgages per each home sale. If the ratio is 0.79, means there are 0.79 mortgages per each home sale.
 
 # Interpretation and observations
 
-La situació actual del mercat immobiliari pel que fa al crèdit és molt diferent en relació amb la bombolla dels 2000. Actualment no hi ha bombolla creditícia, al contrari que llavors. Ni tampoc estam en una situació de gran nombre de compravendes, tot i que sembla que l'any 2021 acabarà en zona d'expansió.
+The graph from above shows the ratio between mortgages and home sales. It can be interpreted on the following way:
 
-Durant la bombolla dels 2000, el nivell d’irracionalitat fou tan gran que allò normal era que hi hagués més hipoteques que no pas compravendes. En el pic màxim per cada compravenda s’arribaren a signar tres hipoteques de mitjana. Aquests nombres són delirants, hom pot esperar que en certs moments alts del mercat dins una situació saludable la ràtio estigui per sobre d’u, però una ràtio superior a dos o tres és un bon senyal d’exuberància irracional.
-
-Ara no hi ha cap bombolla creditícia, i des de 2013, hi ha més compravendes que no pas hipoteques. A la gràfica es veu com la ràtio està per sota d’u, que indica una situació més sana.
-
-
-En aquest sentit, el 2021 podria acabar com l’any amb la ràtio més baixa dels darrers vint anys, superant a l’any passat, el 2020, que ja fou el mínim de la sèrie coneguda. Aquesta és en part una de les raons que expliquen la forta competència hipotecaria entre els bancs, i que guarda relació amb la pèrdua de població en edat de compra.
+- If the ratio is equal to 1, there are as many mortgages as home sales.
+- If it is greater than 1, there are more mortgages than home sales, indicating the danger of a credit bubble.
+- If it is less than 1, there are more home sales than mortgages, indicating that cash purchases are gaining strength.

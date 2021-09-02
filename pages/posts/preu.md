@@ -19,15 +19,15 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Eix esquerre (línia)**: preu de l'habitatge en euros per m2, segons Idealista i Notaris.
-- **Eix dret (àrea)**: Percentatge de diferència absoluta entre els dos preus comparats.
+- **Left axis (line)**: house price in euros per m2, according to Idealista and to the notaries.
+- **Right axis (area)**: Percentage of difference (in absolute value) between the two compared price sources.
 
 # Interpretation and observations
 
-La gràfica superior compara els preus d'idealista i dels notaris. La tendència dels dos són molt semblants. El que canvia és que el preu notarial està sempre per sota, aquesta desavinença podria explicar-se al fet que el preu d'idealista mostra el preu proposat pel venedor, mentre que el notarial mostra el preu que realment ha pagat el comprador.
+The graph from above compares Idealista and notary prices. Both trends are very similar. However, the notary price tends to be always below the Idealista price. This discrepancy could be explained by the fact that the Idealista price shows the price proposed by the seller, while the notary price shows the price actually paid by the buyer.
 
-Un altre punt important de cara a interpretar la gràfica és el "Diferencial" i el "Canvi brusc", que volen servir com a "senyals" per a capturar canvis de tendència.
+Another important point in interpreting the graph is the _"Spread"_ and the _"Sharp change"_, which are intended to serve as signals to capture trend changes.
 
-- Diferencial: Les barres grises (dades a l'eix dret) mostren simplement la diferència entre els dos preus en %, per exemple quan més diferència hi ha entre el preu notarial i d'idealista és en el 2012(T1), amb més d'un 25% de diferència.
+- **Differential**: The grey bars (right axis) simply show the difference between the two prices in %. The two lines should not be too far apart, as they represent the same information. Therefore, when the difference is too large, probably one of the two sources is getting the trend wrong.
 
-- Canvi brusc: En el cas de la línia verda (amb els errors) mostren la variació del preu notarial comparada amb la tendència d'idealista. Si vos fixau hi ha moments quan la línia amb la barra d'error es desferra molt del preu d'idealista (tant cap a dalt, com cap a baix). Per exemple, en el 2010-2012 n'hi ha un parell de moments molt visibles, que es desferren molt cap a baix, donant a entendre que la pressió a la baixa és forta.
+- **Sharp change**: The green line (with the error bars) show the variation of the notarial price compared to the Idealista trend. The line can move away from the Idealista price both upwards and downwards. For example, in 2010-2012 there are a couple of very visible moments when it moves clearly downwards, suggesting that the downward pressure is strong.
