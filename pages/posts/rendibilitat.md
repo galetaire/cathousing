@@ -13,8 +13,8 @@ import Image from 'next/image'
 <Image
   src="/images/rendibilitat.png"
   alt="Photo"
-  width={996}
-  height={364}
+  width={1000}
+  height={371}
   priority
   className="next-image"
 />

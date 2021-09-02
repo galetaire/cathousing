@@ -13,14 +13,14 @@ import Image from 'next/image'
 <Image
   src="/images/credit.png"
   alt="Photo"
-  width={980}
-  height={536}
+  width={979}
+  height={541}
   priority
   className="next-image"
 />
 
 - **Left axis (bars)**: annual number of mortgages approved and released.
-- **Right axis (line)**: average annual amount of mortgages, in euros.
+- **Right axis (line)**: average annual mortgage amount, in euros.
 
 # Interpretation and observations
 

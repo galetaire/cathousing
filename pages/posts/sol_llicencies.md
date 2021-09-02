@@ -14,7 +14,7 @@ import Image from 'next/image'
   src="/images/llicenciesobra.png"
   alt="Photo"
   width={726}
-  height={457}
+  height={455}
   priority
   className="next-image"
 />

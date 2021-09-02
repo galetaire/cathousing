@@ -13,8 +13,8 @@ import Image from 'next/image'
 <Image
   src="/images/preuhistoric.png"
   alt="Photo"
-  width={1388}
-  height={604}
+  width={1382}
+  height={589}
   priority
   className="next-image"
 />

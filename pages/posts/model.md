@@ -14,7 +14,7 @@ import Image from 'next/image'
   src="/images/model.png"
   alt="Photo"
   width={1294}
-  height={612}
+  height={595}
   priority
   className="next-image"
 />
