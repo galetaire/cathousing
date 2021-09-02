@@ -19,12 +19,12 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Eix esquerre (barres)**: nombre total d'habitatges nous per any.
-- **Eix dret (línia)**: habitatges existents per cada 1000 habitants.
+- **Left axis (bars)**: total number of new dwellings per year.
+- **Right axis (line)**: existing dwellings per 1000 inhabitants.
 
 # Interpretation and observations
 
-A la gràfica superior es mostra el nombre d'habitatges nous construïts anualment des de l'any 1971. També es pot veure la ràtio d'habitatges per cada mil habitants. Algunes observacions:
+The graph from above shows the number of new homes built annually since 1971. The ratio of dwellings per thousand inhabitants can also be seen. Some observations:
 
-- **Observació A**: El nombre d'habitatges nous es va mantenir quasi sempre per sobre dels 40 mil habitatges, fins a l'any 2009, quan va caure dràsticament fins als 10 mil habitatges nous per any.
-- **Observació B**: El nombre d'habitatges per cada 1000 habitants va anar en augment des de l'any 1971 fins a l'any 2000, moment en què es va estancar. Actualment està en retrocés.
+- **Observation A**: The number of new dwellings remained almost always above 40 thousand dwellings, until the year 2009, when it dropped drastically to 10 thousand new dwellings per year.
+- **Observation B**: The number of dwellings per 1000 inhabitants increased from 1971 to 2000, since then it stagnated. Currently is on decline.

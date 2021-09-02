@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Relationship between salary and mortgages
+# Relationship between wages and mortgages
 
 <Image
   src="/images/sou.png"
@@ -19,15 +19,13 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Eix esquerre**: salaris (barres), el sou habitual representa la mediana dins la distribució dels salaris a Espanya.
-- **Eix dret**: import mitjà de les hipoteques (línies).
+- **Left axis**: wages (bars), the usual wage represents the median of the salaries distribution in Spain, in euros.
+- **Right axis**: mortgages average amount (lines), in euros.
 
 # Interpretation and observations
 
-La gràfica superior ens mostra els cicles immobiliaris segons la mediana de sou i les quantitats demanades en les hipoteques. En aquest sentit, és comú que hi
-hagi moments de convergència i divergència. La divergència implica que el preu de l'habitatge creix més de pressa que no els sous, i la convergència la cosa
-inversa.
+The graph from above shows the housing cycles according to the median wages and the amounts requested in the mortgages. In this sense, it is common to found convergence and divergence cycles. Divergence implies that housing prices grow faster than wages, and convergence the reverse.
 
-- 1997(?) - 2007: Divergència salari - preu habitatge.
-- 2008 - 2013: Convergència salari - preu habittge.
-- 2014 - 2021: Divergència salari - preu habitatge.
+- 1997 (?) - 2007: Wage/price divergence.
+- 2008 - 2013: Wage/price convergence.
+- 2014 - 2021: Wage/price divergence. 

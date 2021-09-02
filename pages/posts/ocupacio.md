@@ -19,15 +19,15 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Eix esquerre**: IPV, Índex del Preu de l'Habitatge, sense inflació (base 100 = 2000).
-- **Eix dret**: percentatge d'atur mitjà de cada any.
+- **Left axis**: HPI (Housing Price Index) inflation adjusted (base 100 = 2000).
+- **Right axis**: average unemployment rate for each year.
 
 # Interpretation and observations
 
-La relació entre la taxa d'atur i el preu de l'habitatge és negativa, és a dir, quan la taxa d'atur augmenta el preu de l'habitatge descendeix, i a la inversa. I també és estadísticament rellevant, és a dir, aquest comportament és repetitiu en el temps. Si observam la gràfica superior podem distingir diversos períodes destacats:
+The relationship between the unemployment rate and housing prices is negative, i.e., when the unemployment rate rises, housing prices fall, and vice versa. And it is also statistically relevant, i.e., this behavior is repetitive over time. If we look at the graph above we can distinguish several outstanding periods:
 
-- 1986 - 1990: Atur descendeix, augmenta el preu de l'habitatge.
-- 1991 - 1996: Atur augmenta, descendeix el preu de l'habitatge.
-- 1997 - 2006: Atur descendeix, augmenta el preu de l'habitatge.
-- 2007 - 2013: Atur augmenta, descendeix el preu de l'habitatge.
-- 2014 - 2020: Atur descendeix, augmenta el preu de l'habitatge.
+- 1986 - 1990: Unemployment falls, house prices rise.
+- 1991 - 1996: Unemployment rises, house prices fall.
+- 1997 - 2006: Unemployment decreases, house prices increase.
+- 2007 - 2013: Unemployment rises, house prices fall.
+- 2014 - 2020: Unemployment decreases, house prices increase. 

@@ -19,12 +19,12 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Eix esquerre (barres)**: nombre total de compravendes de cada trimestre.
-- **Eix dret (línia)**: preu de l'habitatge en euros per m2, segons els notaris.
+- **Left axis (bars)**: total number of home sales in each quarter.
+- **Right axis (line)**: housing prices in euros per square meter, according to notaries.
 
 # Interpretation and observations
 
-A la gràfica superior veim el nombre de compravendes per trimestre representat en barres (eix esquerre). El color ens indica si el nombre de compravendes és més baix que el trimestre anterior (vermell), o més elevat (verd). La línia negra representa el preu notarial (eix dret). Així podem veure si el nombre de compravendes va en descens o en ascens, i veure com balla respecte del preu. Algunes observacions:
+The graph from above shows the number of home sales per quarter. The color indicates whether the number of sales is lower than the previous quarter (red) or higher (green). The black line represents the notarial price. Thus, we can see if the number of sales is going up or down, in combination with price movement. Some observations:
 
-- **Observació A**: Entre 2007 i 2013 el nombre de compravendes segueix una tendència de descens, arribant a encadenar 5 barres vermelles seguides.
-- **Observació B**: Entre 2014 i 2019 la tendència canvia i les compravendes van en ascens, arribant a encadenar 3 barres verdes consecutives dues vegades.
+- **Observation A**: Between 2007 and 2013 the number of sales follows a downward trend, chaining 5 red bars in a row.
+- **Observation B**: Between 2014 and 2019 the trend changes and the number of sales rises, chaining 3 consecutive green bars twice.

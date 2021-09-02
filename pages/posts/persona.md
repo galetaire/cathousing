@@ -21,7 +21,7 @@ import Image from 'next/image'
 
 # Interpretation and observations
 
-A la gràfica superior veim la distribució percentual de les compravendes d'habitatges a Catalunya segons si el comprador és nacional, estranger o persona jurídica (empreses, fons d'inversió...). Així podem veure qui domina i qui retrodeceix en el mercat. Algunes observacions:
+The graph from above shows the distribution (%) of home sales according to whether the buyer is national, foreigner or a legal entity (companies, investment funds ...). Thus, we can see who dominates, and who departs the market. Some observations:
 
-- **Observació A**: Entre 2011 i 2013 el pes de les compravendes per part de persones jurídiques s'expandeix molt, fet que es pot interpretar (1) com un augment de la inversió per part de fons d'inversió (que consideraven els preus una bona oportunitat), i (2) com un augment de les execucions hipotecàries, on els bancs absorbien propietats desnonades.
-- **Observació B**: Entre 2014 i 2020 el pes de les compravendes per part de població estrangera s'ha consolidat al voltant del 10% de les compravendes d'habitatges. Això inclou tant estrangers residents com no residents.
+- **Observation A**: Between 2011 and 2013 the weight of legal entities expanded a lot, which can be interpreted (1) as an interest by investment funds (which considered the prices a good opportunity), and (2) as an increase in foreclosures, where banks absorbed evicted properties.
+- **Observation B**: Between 2014 and 2020, the weight of foreign population has consolidated at around 10%. This includes both resident and non-resident foreigners.
