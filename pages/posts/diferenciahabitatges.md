@@ -19,11 +19,11 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- Diferència entre Habitatges/Població. El color verd implica superàvit d'habitatges; i el vermell dèficit d'habitatges.
+- Difference between housing growth and population growth. Green color implies housing surplus; red color implies housing deficit.
 
 # Interpretation and observations
 
-A la gràfica superior es mostra el ritme de construcció d'habitatges, segons si ha estat un any de superàvit (es construeix més de pressa que no pas creix la població), o dèficit (la població creix més de pressa que no pas el ritme de construcció). Algunes observacions:
+The graph from above shows the pace of housing construction, depending on whether it has been a year of surplus (new builds grow faster than the population), or deficit (the population is growing faster than the pace of construction). Some observations:
 
-- **Observació A**: Entre l'any 1972 i l'any 2000 la situació és de superàvit.
-- **Observació B**: Des de l'any 2001 la situació dominant és de dèficit, tot i que hi ha diversos anys de superàvit (2008, 2009, 2011, 2012, 2013, 2014).
+- **Observation A**: Between 1972 and 2000 the situation is of surplus.
+- **Observation B**: Since 2001 the dominant situation is of a deficit, although there are several years of surplus (2008, 2009, 2011, 2012, 2013, 2014).
