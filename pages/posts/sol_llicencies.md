@@ -19,8 +19,8 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Eix esquerre**: nombre total de llicències d'obra.
-- **Eix dret**: preu del sòl en euros per m2.
+- **Left axis**: total number of building permits.
+- **Right axis**: price of land in euros per m2.
 
 <Image
   src="/images/tipusobra.png"
