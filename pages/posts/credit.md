@@ -19,15 +19,15 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Eix esquerre (barres)**: nombre anual d'hipoteques constituïdes i cancel·lades.
-- **Eix dret (línia)**: import mitjà anual de les hipoteques, en euros.
+- **Left axis (bars)**: annual number of mortgages approved and released.
+- **Right axis (line)**: average annual amount of mortgages, in euros.
 
 # Interpretation and observations
 
-El crèdit correlaciona molt bé amb l'evolució del preu de l'habitatge. A tall d'exemple farem un parell d'interpretacions:
+Credit correlates very well with the evolution of house prices. As an example, we will make a couple of interpretations:
 
-- **Observació A**: Podem observar com la constitució d'hipoteques era enorme a finals dels 1990 i principis dels 2000. Molt per sobre del límit superior demogràfic, indicant-nos la creació d'una bombolla.
-- **Observació B**: Actualment la firma d'hipoteques està dins el límit demogràfic, de fet està més propera a la zona del límit inferior. És a dir, no hi ha cap bombolla creditícia.
-- **Observació C**: L'import mitjà de les hipoteques va en augment constant, això és conseqüència de la inflació, per això dins el col·lectiu general existeix allò de _l'habitatge sempre puja_, que té una part de veritat.
-- **Observació D**: Tot i que l'import mitjà de les hipoteques sempre tendeix cap amunt, hi ha correccions. La més important fou a partir de l'any 2007 - 2012.
-- **Observació E**: La crisi sanitària de la Covid-19, l'any 2020, també sembla que està provocant una correcció, que ens indicaria caiguda de preus.
+- **Observation A**: We can observe how mortgage approvals were huge in the late 1990s and early 2000s. Far above the demographic upper limit, indicating the creation of a bubble.
+- **Observation B**: Currently, mortgage approvals is within the demographic limit, in fact it is closer to the lower limit zone. In other words, there is no credit bubble.
+- **Observation C**: The average aggregate of mortgages is constantly increasing, this is a consequence of inflation. It is the reason why within the general collective there is the thinking of _"housing always goes up"_, which has a part of truth.
+- **Observation D**: Although the average aggregate of mortgages always tends upwards, there are corrections. The most important happened in the year 2007-2012.
+- **Observation E**: The health crisis of the Covid-19, in the year 2020, also seems to be causing a correction, which would indicate a fall in prices.
