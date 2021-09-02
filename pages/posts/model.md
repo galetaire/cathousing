@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Complete housing model, Catalonia
+# Complete housing model of Catalonia
 
 <Image
   src="/images/model.png"
@@ -18,29 +18,21 @@ import Image from 'next/image'
   priority
   className="next-image"
 />
-<center>_Exemple del model general de l'habitatge a Catalunya._</center>
 
-- **Inflació**: percentatge d'inflació mitjana de l'any en concret, p.ex. 4% l'any 2007.
-- **Atur**: percentatge d'atur mitjà de l'any en concret, p.ex. 15% l'any 1998.
-- **Població**: variació percentual anual en el nombre de població, p.ex. -1% l'any 2017 (respecte de l'any 2016
-- **Preu(-i), sense inflació**: variació percentual anual del preu ajustat a la inflació, p.ex. +3% l'any 1990 (respecte de l'any 1989).
-- **Preu(+i), amb inflació**: variació percentual anual del preu sense ajustar-ho a la inflació, p.ex. +9% l'any 1990 (respecte de l'any 1989).
-- **Crèdit**: variació percentual anual en el nombre d'hipoteques formalitzades, p.ex. +24% l'any 2015 (respecte de l'any 2014).
-- **Compravenda**: variació percentual anual en el nombre de compravendes, p.ex. -15% l'any 2011 (respecte de l'any 2010).
+- **Inflation**: average inflation rate for any given year, e.g. 4% in 2007.
+- **Unemployment**: average unemployment rate for any given year, e.g. 15% in 1998.
+- **Population**: annual percentage change of the total population, e.g. -1% in 2017 (compared to 2016).
+- **Price (-i), minus inflation**: annual percentage change in the inflation-adjusted price, e.g. +3% in 1990 (relative to 1989).
+- **Price (+i), plus inflation**: annual percentage change in the nominal price, e.g. +9% in 1990 (relative to 1989).
+- **Credit**: annual percentage change in the number of mortgages approved, e.g. +24% in 2015 (compared with 2014).
+- **Home sales**: annual percentage change in the number of home sales, e.g. -15% in 2011 (compared with 2010).
 
 # Interpretation and observations
 
-El model general agrupa les sis variables que consider fonamentals per entendre el mercat de l'habitatge: preu, volum, inflació, crèdit, demografia i ocupació. Cal esmentar que totes les variables estan representades en percentatges, però hi ha dos blocs que s'han de llegir de manera diferent:
+The model groups together the six variables that I consider essential in order to understand the housing market: price, volume, inflation, credit, demographics and employment. All the variables are represented in percentages. A couple of interpretations from the chart:
 
-1. **Atur i Inflació**: representat en la mitjana percentual de l'any en concret.
-2. **Població, Compravenda, Crèdit, Preu+i (amb inflació), Preu-i (sense inflació)**: representat en la variació percentual respecte de l'any anterior.
-
-A la imatge principal podem veure la gràfica que representa el model general per a Catalunya. A tall d'exemple farem un parell d'interpretacions:
-
-- **Observació A**: Podem observar com la inflació s'ha anat reduint. L'any 1989 superava el 5%, i l'any 2020 fou negativa (l'àrea vermella està per sota de 0%).
-- **Observació B**: Podem observar com la població des de l'any 2010 s'està reduint any rere any. En canvi entre els anys 2002 i 2006 la població va augmentar bastant, a causa de l'onada immigratòria que hi va haver.
-- **Observació C**: Podem observar que quan l'atur augmenta, l'evolució del preu de l'habitatge tendeix a ser negatiu, tant tenint en compte la inflació (+i) com no (-i).
-- **Observació D**: És interessant observar com entre l'any 1986 i 1990 la pujada del preu de l'habitatge estava dominada per l'elevada inflació, i això ho sabem perquè la barra de preu és totalment negre, preu (+i), superposant per complet a la barra taronja.
-- **Observació E**: La barra taronja, preu (-i), ens informa de la de/re-valorització dels habitatges, descomptant la inflació. En aquest sentit, aquells anys que podem observar la barra taronja, sabem quin és el nivell de revalorització o devalorització que sofreix l'habitatge. Per exemple, l'any 2013 va haver-hi una forta devalorització, i l'any 2017 una forta revalorització.
-
-Aquestes només són algunes observacions, n'hi ha més que se'n poden fer de la gràfica, però ja depenen del coneixement i del bon ull de cadascú.
+- **Observation A**: We can see how inflation has been decreasing. In 1989 it was above 5%, and in 2020 it was negative (the red area is below 0%).
+- **Observation B**: We can see how the population has been decreasing on a yearly basis since 2010. On the other hand, between 2002 and 2006, the population increased a lot, due to an inmigration wave.
+- **Observation C**: We can observe that when unemployment increases, the evolution of the price of housing tends to be negative, both taking into account inflation (+i) and not (-i).
+- **Observation D**: It is interesting to note how between 1986 and 1990 the rise in house prices was dominated by high inflation. We know this because the price bar is completely black, price (+i) is overlapping completely the price (-i).
+- **Observation E**: The orange bar, price (-i), informs us of the de/revaluation of housing. For example, in 2013, there was a strong devaluation, and in 2017 a strong revaluation.
