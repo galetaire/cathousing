@@ -12,7 +12,7 @@ import Image from 'next/image'
 
 <Image
   src="/images/nombrehabitatges.png"
-  alt="Photo"
+  alt="Reload chart"
   width={1140}
   height={547}
   priority

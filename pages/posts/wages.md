@@ -12,7 +12,7 @@ import Image from 'next/image'
 
 <Image
   src="/images/sou.png"
-  alt="Photo"
+  alt="Reload chart"
   width={710}
   height={413}
   priority
@@ -28,4 +28,4 @@ The graph from above shows the housing cycles according to the median wages and 
 
 - 1997 (?) - 2007: Wage/price divergence.
 - 2008 - 2013: Wage/price convergence.
-- 2014 - 2021: Wage/price divergence. 
+- 2014 - 2021: Wage/price divergence.

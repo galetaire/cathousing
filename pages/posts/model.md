@@ -12,7 +12,7 @@ import Image from 'next/image'
 
 <Image
   src="/images/model.png"
-  alt="Photo"
+  alt="Reload chart"
   width={1294}
   height={595}
   priority

@@ -12,7 +12,7 @@ import Image from 'next/image'
 
 <Image
   src="/images/ocupacio.png"
-  alt="Photo"
+  alt="Reload chart"
   width={1038}
   height={517}
   priority
@@ -30,4 +30,4 @@ The relationship between the unemployment rate and housing prices is negative, i
 - 1991 - 1996: Unemployment rises, house prices fall.
 - 1997 - 2006: Unemployment decreases, house prices increase.
 - 2007 - 2013: Unemployment rises, house prices fall.
-- 2014 - 2020: Unemployment decreases, house prices increase. 
+- 2014 - 2020: Unemployment decreases, house prices increase.

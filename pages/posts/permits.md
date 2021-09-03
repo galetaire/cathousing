@@ -12,7 +12,7 @@ import Image from 'next/image'
 
 <Image
   src="/images/llicenciesobra.png"
-  alt="Photo"
+  alt="Reload chart"
   width={726}
   height={455}
   priority
@@ -24,7 +24,7 @@ import Image from 'next/image'
 
 <Image
   src="/images/tipusobra.png"
-  alt="Photo"
+  alt="Reload chart"
   width={726}
   height={457}
   priority
