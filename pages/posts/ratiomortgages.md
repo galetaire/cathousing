@@ -19,7 +19,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Ratio between mortgages and home sales**: if the ratio is 3, it means there a 3 mortgages per each home sale. If the ratio is 0.79, it means there are 0.79 mortgages per each home sale.
+- **Ratio between mortgages and home sales**: if the ratio is (x), it means there a (x) mortgages per each (1) home sale.
 
 # Interpretation and observations
 
