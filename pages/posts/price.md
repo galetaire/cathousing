@@ -19,7 +19,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **House prices in Catalonia since 1985**: in euros per m2 , inflation-adjusted, unadjusted, and accumulated inflation.
+- **House prices in Catalonia since 1985**: in euros per m2 , inflation-adjusted (real value), unadjusted (nominal value), and accumulated inflation.
 
 # Interpretation and observations
 
