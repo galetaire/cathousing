@@ -20,7 +20,7 @@ import Image from 'next/image'
 />
 
 - **Left axis (bars)**: wages, the standard wage represents the median of the salaries distribution in Spain, in euros.
-- **Right axis (line)**: mortgages average amount, in euros.
+- **Right axis (line)**: mortgages average amount in Spain, in euros.
 
 # Interpretation and observations
 
