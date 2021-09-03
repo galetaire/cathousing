@@ -23,7 +23,7 @@ import Image from 'next/image'
 
 # Interpretation and observations
 
-The graph from above shows the average annual house price in Catalonia. Some brief observations:
+The chart from above shows the average annual house price in Catalonia. Some brief observations:
 
 - **Observation A**: The price of housing is constantly rising due to inflation, a consequence of current monetary policy.
 - **Observation B**: The uptrend in house prices is however cyclical, with moments of expansion and recession, linked to debt cycles.

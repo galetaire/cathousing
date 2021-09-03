@@ -24,7 +24,7 @@ import Image from 'next/image'
 
 # Interpretation and observations
 
-The graph from above shows the housing cycles according to the median wages and the amounts requested in the mortgages. In this sense, it is common to found convergence and divergence cycles. Divergence implies that housing prices grow faster than wages, and convergence the reverse.
+The chart from above shows the housing cycles according to the median wages and the amounts requested in the mortgages. In this sense, it is common to found convergence and divergence cycles. Divergence implies that housing prices grow faster than wages, and convergence the reverse.
 
 - 1997 (?) - 2007: Wage/price divergence.
 - 2008 - 2013: Wage/price convergence.

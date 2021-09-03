@@ -24,7 +24,7 @@ import Image from 'next/image'
 
 # Interpretation and observations
 
-The graph from above compares Idealista and notary prices. Both trends are very similar. However, the notary price tends to be always below the Idealista price. This discrepancy could be explained by the fact that the Idealista price shows the price proposed by the seller, while the notary price shows the price actually paid by the buyer.
+The chart from above compares Idealista and notary prices. Both trends are very similar. However, the notary price tends to be always below the Idealista price. This discrepancy could be explained by the fact that the Idealista price shows the price proposed by the seller, while the notary price shows the price actually paid by the buyer.
 
 Another important point in interpreting the graph is the _"Spread"_ and the _"Sharp change"_, which are intended to serve as signals to capture trend changes.
 

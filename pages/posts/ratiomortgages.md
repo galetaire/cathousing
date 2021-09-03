@@ -23,7 +23,7 @@ import Image from 'next/image'
 
 # Interpretation and observations
 
-The graph from above shows the ratio between mortgages and home sales. It can be interpreted on the following way:
+The chart from above shows the ratio between mortgages and home sales. It can be interpreted on the following way:
 
 - If the ratio is equal to 1, there are as many mortgages as home sales.
 - If it is greater than 1, there are more mortgages than home sales, indicating the danger of a credit bubble.

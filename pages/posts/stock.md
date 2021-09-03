@@ -24,7 +24,7 @@ import Image from 'next/image'
 
 # Interpretation and observations
 
-The graph from above shows the number of new homes built annually since 1971. The ratio of dwellings per thousand inhabitants can also be seen. Some observations:
+The chart from above shows the number of new homes built annually since 1971. The ratio of dwellings per thousand inhabitants can also be seen. Some observations:
 
 - **Observation A**: The number of new dwellings remained almost always above 40 thousand dwellings, until the year 2009, when it dropped drastically to 10 thousand new dwellings per year.
 - **Observation B**: The number of dwellings per 1000 inhabitants increased from 1971 to 2000, since then it stagnated. Currently is on decline.
