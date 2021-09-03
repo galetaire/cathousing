@@ -1,5 +1,5 @@
 ---
-title: Complete housing model, Catalonia
+title: Complete housing model of Catalonia
 date: 2021-08-01
 description: Data on the evolution of the housing market. The model consists of six main variables (price, inflation, home sales, credit, demographics and employment).
 tag: Price, Volume, Credit, Labor, Demography
