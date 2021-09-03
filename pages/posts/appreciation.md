@@ -24,7 +24,7 @@ import Image from 'next/image'
 
 # Interpretation and observations
 
-The chart from above shows the nominal annual appreciation of housing, i.e. whether if houses increases or decreases in value year over year (the graph does not consider return from renting, neither is inflation adjusted). We can distinguish several outstanding periods:
+The chart from above shows the nominal annual appreciation of housing, i.e. whether if houses increases or decreases in value year over year (it does not consider rental returns, neither is inflation adjusted). We can distinguish several outstanding periods:
 
 - 1986 - 1990: Strong revaluation of housing.
 - 1991 - 1993: Stagnation, or very slight devaluation of housing.
