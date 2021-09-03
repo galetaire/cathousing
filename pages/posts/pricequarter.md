@@ -19,7 +19,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Left axis (line)**: house price in euros per m2, according to Idealista and to the notaries.
+- **Left axis (line)**: house price in euros per square meter, according to Idealista and to the notaries.
 - **Right axis (area)**: Percentage of difference (in absolute value) between the two compared price sources.
 
 # Interpretation and observations
