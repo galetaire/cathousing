@@ -26,8 +26,8 @@ import Image from 'next/image'
 
 The chart from above shows the nominal annual appreciation of housing, i.e. whether if houses increases or decreases in value year over year (it does not consider rental returns, neither is inflation adjusted). We can distinguish several outstanding periods:
 
-- 1986 - 1990: Strong revaluation of housing.
-- 1991 - 1993: Stagnation, or very slight devaluation of housing.
-- 1994 - 2007: Steady revaluation of housing, with 2007 being a turning point.
-- 2008 - 2014: Strong devaluation of housing.
-- 2015 - 2021: Slight revaluation of housing.
+- 1986 - 1990: Strong revaluation.
+- 1991 - 1993: Stagnation.
+- 1994 - 2007: Steady revaluation.
+- 2008 - 2014: Strong devaluation.
+- 2015 - 2021: Slight revaluation.
