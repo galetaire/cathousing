@@ -19,7 +19,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- Home sales (bars); population between 25 and 50 years old (dotted lines); and housing inheritances (purple line).
+- **Purchasing-age population (PAP)**: Home sales (bars); population between 25 and 50 years old (dotted lines); and housing inheritances (purple line).
 
 # Interpretation and observations
 
