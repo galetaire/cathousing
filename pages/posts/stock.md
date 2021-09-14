@@ -25,8 +25,8 @@ import Image from 'next/image'
 <Image
   src="/images/anyhabitatges.png"
   alt="Reload chart"
-  width={1131}
-  height={526}
+  width={1122}
+  height={519}
   priority
   className="next-image"
 />
