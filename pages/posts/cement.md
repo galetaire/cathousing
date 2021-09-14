@@ -20,7 +20,7 @@ import Image from 'next/image'
 />
 
 - **Left axis (bars)**: cement consumption per year, in metric tons.
-- **Right axis (line)**: housing prices in euros per square meter, according to notaries.
+- **Right axis (line)**: housing prices in euros per square meter.
 
 # Interpretation and observations
 
