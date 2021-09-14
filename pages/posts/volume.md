@@ -13,14 +13,12 @@ import Image from 'next/image'
 <Image
   src="/images/compravenda.png"
   alt="Reload chart"
-  width={1027}
-  height={526}
   priority
   className="next-image"
 />
 
 - **Left axis (bars)**: total number of home sales in each quarter.
-- **Right axis (line)**: housing prices in euros per square meter, according to notaries.
+- **Right axis (line)**: housing prices in euros per square meter.
 
 # Interpretation and observations
 
