@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Six-variable housing market model, Catalonia
+# Six-variable market model, Catalonia
 
 <Image
   src="/images/model.png"
