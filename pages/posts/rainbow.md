@@ -23,7 +23,9 @@ import Image from 'next/image'
 
 # Interpretation and observations
 
-The rainbow curve describes a demographic channel in order to evaluate bull or bear market conditions in the price of housing. The equation, derived from the demographic curve (quadratic polynomial), has been price-adjusted. This is an experimental indicator, open to improvements and corrections. Equations details on the following chart:
+The rainbow curve describes a demographic channel in order to evaluate bull or bear market conditions in the price of housing. The equation, derived from the demographic curve (quadratic polynomial), has been price-adjusted. This is an experimental indicator, open to improvements and corrections.
+
+Equations details chart:
 
 <Image
   src="/images/rainbowsource.png"
