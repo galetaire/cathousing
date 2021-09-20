@@ -1,5 +1,5 @@
 ---
-title: Rainbow model, the housing cycles
+title: Housing cycle indicator, the rainbow model
 date: 2021-08-01
 description: Model to predict real-estate cycles. Showing data on the evolution of housing prices (inflation-adjusted), crossed with the demographic curve (rainbow).
 tag: Price, Demography
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Rainbow model - Housing cycles, Catalonia
+# Housing cycles, the rainbow model, Catalonia
 
 <Image
   src="/images/rainbow.png"
