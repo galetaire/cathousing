@@ -1,26 +1,39 @@
 ---
-title: Rainbow cyclic price model
+title: Rainbow model, the housing cycles
 date: 2021-08-01
-description: Model to predict real-estate cycles and prices. Showing data on the evolution of housing prices (inflation-adjusted), crossed with the demographic curve (rainbow).
+description: Model to predict real-estate cycles. Showing data on the evolution of housing prices (inflation-adjusted), crossed with the demographic curve (rainbow).
 tag: Price, Demography
 author: Galetaire
 ---
 
 import Image from 'next/image'
 
-# Rainbow cyclic price model, Catalonia
+# Rainbow model - Housing cycles, Catalonia
 
 <Image
   src="/images/rainbow.png"
   alt="Reload chart"
-  width={1066}
-  height={572}
+  width={1065}
+  height={571}
   priority
   className="next-image"
 />
 
-- **Inflation**: Under construction.
+- **Red** = highly overbought.
+- **Orange** = overbought.
+- **Yellow** = equilibrium.
+- **Green** = oversold.
+- **Blue** = highly oversold.
 
 # Interpretation and observations
 
-Under construction
+The Raibow curve describes a demographic channel in order to evaluate overbought or oversold conditions in the price of housing.
+
+<Image
+  src="/images/rainbowsource.png"
+  alt="Reload chart"
+  width={1001}
+  height={516}
+  priority
+  className="next-image"
+/>
