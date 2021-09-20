@@ -33,3 +33,14 @@ The rainbow curve describes a demographic channel in order to evaluate bull or b
   priority
   className="next-image"
 />
+
+Full dataset chart, from 1964 to 2060:
+
+<Image
+  src="/images/rainbowmax.png"
+  alt="Reload chart"
+  width={1065}
+  height={571}
+  priority
+  className="next-image"
+/>
