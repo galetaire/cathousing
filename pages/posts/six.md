@@ -1,5 +1,5 @@
 ---
-title: Six-variable holistic model
+title: Holistic housing market model
 date: 2021-08-01
 description: Data on the evolution of the housing market. The model consists of six main variables (price, inflation, home sales, credit, demographics and employment).
 tag: Price, Volume, Credit, Labor, Demography
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Six-variable holistic model, Catalonia
+# The six-variable model, Catalonia
 
 <Image
   src="/images/model.png"
