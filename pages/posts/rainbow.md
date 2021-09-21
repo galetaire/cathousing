@@ -19,13 +19,13 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Red** = strong overpriced; **Orange** = slightly overpriced; **Yellow** = neutral; **Green** = slightly underpriced; **Blue** = strong underpriced.
+- **Red** = strong overprice; **Orange** = slightly overprice; **Yellow** = neutral; **Green** = slightly underprice; **Blue** = strong underprice.
 
 # Interpretation and observations
 
 The rainbow curve describes a demographic channel in order to evaluate bull or bear market conditions in the price of housing. The equation, derived from the demographic curve (quadratic polynomial), has been price-adjusted. This is an experimental indicator, open to improvements and corrections.
 
-Equations details chart:
+Equations chart:
 
 <Image
   src="/images/rainbowsource.png"
