@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# The six-variable model, Catalonia
+# Holistic housing market model: the six-variable chart, Catalonia
 
 <Image
   src="/images/model.png"

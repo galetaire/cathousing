@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# The rainbow model, Catalonia
+# Housing market cycle indicator: the rainbow model, Catalonia
 
 <Image
   src="/images/rainbow.png"
