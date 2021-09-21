@@ -19,7 +19,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Red** = highly overbought; **Orange** = overbought; **Yellow** = equilibrium; **Green** = oversold; **Blue** = highly oversold.
+- **Red** = strong overpriced; **Orange** = slightly overpriced; **Yellow** = neutral; **Green** = slightly underpriced; **Blue** = strong underpriced.
 
 # Interpretation and observations
 
