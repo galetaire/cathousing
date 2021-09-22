@@ -1,5 +1,5 @@
 ---
-title: Home sales and demographic rhythm: the PAP indicator
+title: Home sales and demography
 date: 2021-07-31
 description: Data on the evolution of the number of home sales in relation to the purchasing-age-population, which is between 25 and 50 years old.
 tag: Demography, Volume
@@ -8,7 +8,7 @@ author: Galetaire
 
 import Image from 'next/image'
 
-# Home sales and demographic rhythm
+# Home sales and demographic rhythm: the PAP indicator
 
 <Image
   src="/images/demografia.png"
