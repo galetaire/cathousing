@@ -1,6 +1,6 @@
 ---
 title: Evolution of home sales
-date: 2021-08-01
+date: 2021-07-31
 description: Data on the evolution of the number of home sales. The higher the volume of transactions, the higher the price of housing tends to be.
 tag: Volume
 author: Galetaire
@@ -13,8 +13,8 @@ import Image from 'next/image'
 <Image
   src="/images/compravenda.png"
   alt="Reload chart"
-  width={1027}
-  height={526}
+  width={1058}
+  height={567}
   priority
   className="next-image"
 />
