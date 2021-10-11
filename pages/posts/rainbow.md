@@ -30,8 +30,8 @@ Equations chart:
 <Image
   src="/images/rainbowsource.png"
   alt="Reload chart"
-  width={1102}
-  height={576}
+  width={}
+  height={}
   priority
   className="next-image"
 />
