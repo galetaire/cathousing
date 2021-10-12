@@ -13,14 +13,25 @@ import Image from 'next/image'
 <Image
   src="/images/credit.png"
   alt="Reload chart"
-  width={979}
-  height={541}
+  width={3351}
+  height={1910}
   priority
   className="next-image"
 />
 
 - **Left axis (bars)**: annual number of mortgages approved and released.
 - **Right axis (line)**: average annual mortgage amount, in euros.
+
+<Image
+  src="/images/credit2.png"
+  alt="Reload chart"
+  width={3489}
+  height={1769}
+  priority
+  className="next-image"
+/>
+
+- **Stacked bars (100%)**: Blue = average annual mortgage amount; Orange = price of housing.
 
 # Interpretation and observations
 

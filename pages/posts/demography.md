@@ -13,8 +13,8 @@ import Image from 'next/image'
 <Image
   src="/images/demografia.png"
   alt="Reload chart"
-  width={983}
-  height={567}
+  width={3344}
+  height={1949}
   priority
   className="next-image"
 />
@@ -24,8 +24,8 @@ import Image from 'next/image'
 <Image
   src="/images/demografia2.png"
   alt="Reload chart"
-  width={983}
-  height={567}
+  width={3343}
+  height={1948}
   priority
   className="next-image"
 />
