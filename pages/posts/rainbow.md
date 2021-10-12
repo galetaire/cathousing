@@ -13,8 +13,8 @@ import Image from 'next/image'
 <Image
   src="/images/rainbow.png"
   alt="Reload chart"
-  width={responsive}
-  height={responsive}
+  width={3674}
+  height={1803}
   priority
   className="next-image"
 />
@@ -30,6 +30,8 @@ Equations chart:
 <Image
   src="/images/rainbowsource.png"
   alt="Reload chart"
+  width={3843}
+  height={1797}
   priority
   className="next-image"
 />
@@ -39,8 +41,8 @@ Full dataset chart, from 1964 to 2060:
 <Image
   src="/images/rainbowmax.png"
   alt="Reload chart"
-  width={responsive}
-  height={responsive}
+  width={3587}
+  height={1785}
   priority
   className="next-image"
 />
