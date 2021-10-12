@@ -31,7 +31,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Stacked bars (100%)**: Blue = average annual mortgage amount; Orange = price of housing.
+- **Stacked bars (100%)**: Blue = average annual mortgage amount; Orange = average annual housing price.
 
 # Interpretation and observations
 
