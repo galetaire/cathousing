@@ -28,3 +28,7 @@ The chart from above shows the number of home sales per quarter. The color indic
 
 - **Observation A**: Between 2007 and 2013 the number of sales follows a downward trend, chaining 5 red bars in a row.
 - **Observation B**: Between 2014 and 2019 the trend changes and the number of sales rises, chaining 3 consecutive green bars twice.
+
+# Data sources
+
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

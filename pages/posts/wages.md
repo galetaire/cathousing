@@ -29,3 +29,7 @@ The chart from above shows the housing cycles according to the median wages and 
 - 1997 (?) - 2007: Wage/price divergence.
 - 2008 - 2013: Wage/price convergence.
 - 2014 - 2021: Wage/price divergence.
+
+# Data sources
+
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

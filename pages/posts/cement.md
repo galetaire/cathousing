@@ -29,3 +29,7 @@ The chart from above shows the evolution of cement consumption, and its comparis
 - **Observation A**: Both are historically highly correlated variables.
 - **Observation B**: Real-estate cycles are readily apparent, with moments of expansion and recession, linked to debt cycles.
 - **Observation C**: Cement consumption is linked to housing construction. The fact that housing construction has come to a screeching halt is an important event to consider going forward.
+
+# Data sources
+
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

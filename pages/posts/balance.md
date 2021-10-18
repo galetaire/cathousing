@@ -27,3 +27,7 @@ The chart from above shows the pace of housing construction, depending on whethe
 
 - **Observation A**: Between 1972 and 2000 the situation is of surplus.
 - **Observation B**: Since 2001 the dominant situation is of a deficit, although there are several years of surplus (2008, 2009, 2011, 2012, 2013, 2014).
+
+# Data sources
+
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

@@ -28,3 +28,7 @@ The chart from above shows the average annual house price in Catalonia. Some bri
 - **Observation A**: The price of housing is constantly rising due to inflation, a consequence of current monetary policy.
 - **Observation B**: The uptrend in house prices is however cyclical, with moments of expansion and recession, linked to debt cycles.
 - **Observation C**: The cycles are easily visible if we look at the line representing the price (inflation-adjusted). It allows us to see, for example, the magnitude of the real-estate bubble from the early 2000s.
+
+# Data sources
+
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

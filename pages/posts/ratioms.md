@@ -28,3 +28,7 @@ The chart from above shows the ratio between mortgages and home sales. It can be
 - If the ratio is equal to 1, there are as many mortgages as home sales.
 - If it is greater than 1, there are more mortgages than home sales, indicating the danger of a credit bubble.
 - If it is less than 1, there are more home sales than mortgages, indicating that cash purchases are gaining strength.
+
+# Data sources
+
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

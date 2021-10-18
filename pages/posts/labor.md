@@ -43,3 +43,7 @@ The relationship between the unemployment rate and housing prices is negative, i
 - 1997 - 2006: Unemployment decreases, house prices increase.
 - 2007 - 2013: Unemployment rises, house prices fall.
 - 2014 - 2020: Unemployment decreases, house prices increase.
+
+# Data sources
+
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

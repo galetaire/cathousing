@@ -31,3 +31,7 @@ The chart from above shows the nominal annual appreciation of housing, i.e. whet
 - 1994 - 2007: Steady revaluation.
 - 2008 - 2014: Strong devaluation.
 - 2015 - 2021: Slight revaluation.
+
+# Data sources
+
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

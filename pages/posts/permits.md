@@ -40,3 +40,7 @@ The charts from above show the number of annual building licenses (and the type 
 - **Observation A**: The price of land in Catalonia is in decline since 2007.
 - **Observation B**: The number of building licenses crashed deeply between 2007 and 2009, going from 45 thousand licenses to 10 thousand licenses.
 - **Observation C**: Since 2009, the number of licenses for renovations is higher than the number of licenses for new constructions.
+
+# Data sources
+
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
