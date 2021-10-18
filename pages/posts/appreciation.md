@@ -1,6 +1,6 @@
 ---
 title: Housing yearly appreciation
-date: 2021-08-01
+date: 2021-05-01
 description: Data on the evolution of the gross profitability (excluding taxes) of home purchases, using an annual basis.
 tag: Price
 author: Galetaire
