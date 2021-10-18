@@ -49,4 +49,4 @@ Full dataset chart, from 1964 to 2060:
 
 # Data sources
 
-Sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
+All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
