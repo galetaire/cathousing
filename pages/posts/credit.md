@@ -1,6 +1,6 @@
 ---
 title: Evolution of mortgages
-date: 2021-07-01
+date: 2021-08-01
 description: Data on the evolution of the number of mortgages and their average amount. Credit correlates very well with the evolution of house prices.
 tag: Credit
 author: Galetaire
@@ -13,8 +13,8 @@ import Image from 'next/image'
 <Image
   src="/images/credit.png"
   alt="Reload chart"
-  width={3351}
-  height={1910}
+  width={3366}
+  height={1911}
   priority
   className="next-image"
 />
