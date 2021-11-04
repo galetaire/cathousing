@@ -13,8 +13,8 @@ import Image from 'next/image'
 <Image
   src="/images/rainbow.png"
   alt="Reload chart"
-  width={3562}
-  height={2012}
+  width={3607}
+  height={1929}
   priority
   className="next-image"
 />
@@ -41,8 +41,8 @@ Full dataset chart, from 1964 to 2060:
 <Image
   src="/images/rainbowmax.png"
   alt="Reload chart"
-  width={3668}
-  height={2007}
+  width={3570}
+  height={1931}
   priority
   className="next-image"
 />
