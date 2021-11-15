@@ -47,4 +47,4 @@ The model groups together the six variables that I consider essential in order t
 - Inflation data: [Link](https://www.inflation.eu/en/inflation-rates/spain/historic-inflation/cpi-inflation-spain.aspx)
 - Population and projections according to _INE_: [Link](https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176953&menu=resultados&idp=1254735572981)
 
-All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
+Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

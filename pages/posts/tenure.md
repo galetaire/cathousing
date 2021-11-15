@@ -32,4 +32,4 @@ The chart from above shows the distribution (%) of homes according to whether th
 
 - Continuous Household Survey: [Link](https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176952&menu=resultados&idp=1254735572981)
 
-All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
+Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

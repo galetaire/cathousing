@@ -35,4 +35,4 @@ The chart from above shows the housing cycles according to the median wages and 
 - Wage distribution (median): [Link](https://www.ine.es/jaxiT3/Tabla.htm?t=28191)
 - Mortgages: [Link](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736170236&menu=resultados&idp=1254735576757#!tabs-1254736158259)
 
-All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
+Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

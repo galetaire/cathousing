@@ -50,4 +50,4 @@ The relationship between the unemployment rate and housing prices is negative, i
 - Labor Force Survey: [Link](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=ultiDatos&idp=1254735976595)
 - Inflation data: [Link](https://www.inflation.eu/en/inflation-rates/spain/historic-inflation/cpi-inflation-spain.aspx)
 
-All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
+Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

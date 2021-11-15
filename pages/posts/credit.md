@@ -50,4 +50,4 @@ Credit correlates very well with the evolution of house prices. As an example, w
 - Housing prices according to _Sociedad de Tasación_: [Link](https://www.st-tasacion.es/informe-de-tendencias-digital/)
 - Mortgages: [Link](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736170236&menu=resultados&idp=1254735576757#!tabs-1254736158259)
 
-All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
+Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
