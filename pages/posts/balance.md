@@ -30,4 +30,7 @@ The chart from above shows the pace of housing construction, depending on whethe
 
 # Data sources
 
+- Estimated housing stock: [Link](https://apps.fomento.gob.es/BoletinOnline2/?nivel=2&orden=33000000)
+- New housing stock: [Link](https://www.mitma.gob.es/informacion-para-el-ciudadano/informacion-estadistica/vivienda-y-actuaciones-urbanas/estadisticas/stock-de-vivienda-nueva/estadisticas-sobre-stock-de-vivienda-nueva)
+
 All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
