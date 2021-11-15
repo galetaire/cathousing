@@ -32,4 +32,8 @@ The chart from above shows the evolution of cement consumption, and its comparis
 
 # Data sources
 
+- Housing prices according to the notaries (Grupo 5, Acto 501): [Link](http://www.notariado.org/liferay/web/cien/estadisticas-al-completo)
+- Housing prices according to _Sociedad de Tasación_: [Link](https://www.st-tasacion.es/informe-de-tendencias-digital/)
+- Apparent cement consumption: [Link](https://tematicas.org/sintesis-economica/indicadores-de-produccion-y-demanda-nacional/consumo-aparente-de-cemento/)
+
 All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

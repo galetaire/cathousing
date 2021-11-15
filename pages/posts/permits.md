@@ -43,4 +43,7 @@ The charts from above show the number of annual building licenses (and the type 
 
 # Data sources
 
+- Construction and Building Permits: [Link](https://apps.fomento.gob.es/BoletinOnline/?nivel=2&orden=10000000)
+- Price of land: [Link](https://www.mitma.gob.es/el-ministerio/informacion-estadistica/vivienda-y-actuaciones-urbanas/estadisticas/suelo/estadisticas-de-precios-de-suelo-urbano)
+
 All sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
