@@ -33,5 +33,3 @@ The chart from above shows the number of home sales per quarter. The color indic
 
 - Housing prices according to the notaries (Grupo 5, Acto 501): [Link](http://www.notariado.org/liferay/web/cien/estadisticas-al-completo)
 - Home sales: [Link](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736171438&menu=resultados&idp=1254735576757#!tabs-1254736158217)
-
-Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

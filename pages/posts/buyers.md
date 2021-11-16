@@ -29,5 +29,3 @@ The chart from above shows the distribution (%) of home sales according to wheth
 # Data sources
 
 - Property Registrars' Reports: [Link](https://www.registradores.org/actualidad/portal-estadistico-registral/estadisticas-de-propiedad)
-
-Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

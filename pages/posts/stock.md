@@ -47,5 +47,3 @@ The second chart shows the today existing homes by period of construction. Most 
 - Estimated housing stock: [Link](https://apps.fomento.gob.es/BoletinOnline2/?nivel=2&orden=33000000)
 - New housing stock: [Link](https://www.mitma.gob.es/informacion-para-el-ciudadano/informacion-estadistica/vivienda-y-actuaciones-urbanas/estadisticas/stock-de-vivienda-nueva/estadisticas-sobre-stock-de-vivienda-nueva)
 - Continuous Household Survey: [Link](https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176952&menu=resultados&idp=1254735572981)
-
-Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

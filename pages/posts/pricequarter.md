@@ -37,5 +37,3 @@ Another important point in interpreting the graph is the _"Spread"_ and the _"Sh
 - Housing prices according to _Idealista_: [Link](https://www.idealista.com/sala-de-prensa/informes-precio-vivienda)
 - Housing prices according to the notaries (Grupo 5, Acto 501): [Link](http://www.notariado.org/liferay/web/cien/estadisticas-al-completo)
 - Housing prices according to _Sociedad de Tasación_: [Link](https://www.st-tasacion.es/informe-de-tendencias-digital/)
-
-Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).

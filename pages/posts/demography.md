@@ -44,5 +44,3 @@ The _PAP housing index_ is an indicator to analyze the housing market condition.
 
 - Population and projections according to _INE_: [Link](https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176953&menu=resultados&idp=1254735572981)
 - Home sales: [Link](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736171438&menu=resultados&idp=1254735576757#!tabs-1254736158217)
-
-Entire site sources can be consulted [here](http://catalanhousing.galetaire.hns.to/methodology).
