@@ -31,7 +31,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Construction period**: number of today existing dwellings per year/period of construction.
+- **Construction period**: number of today existing dwellings per year/period of construction. The **red bar** is a final estimate based on the current pace of construction.
 
 # Interpretation and observations
 
