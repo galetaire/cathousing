@@ -19,7 +19,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-- **Real value (price) cycle**. **Red** = strong overprice; **Orange** = slightly overprice; **Yellow** = neutral; **Green** = slightly underprice; **Blue** = strong underprice.
+- **Real value cycle** ➞ **Red** = strong overprice; **Orange** = slightly overprice; **Yellow** = neutral; **Green** = slightly underprice; **Blue** = strong underprice.
 
 # Interpretation and observations
 
