@@ -4,7 +4,6 @@ date: 2021-01-01
 description: Data on the distribution of housing tenure according to whether the house is fully owned, owned but mortgaged, rented or freely loaned.
 tag: Demography
 author: Galetaire
-meta-back: "http://catalanhousing.galetaire.hns.to/"
 ---
 
 import Image from 'next/image'
