@@ -25,8 +25,8 @@ import Image from 'next/image'
 <Image
   src="/images/tipusobra.png"
   alt="Reload chart"
-  width={726}
-  height={457}
+  width={2557}
+  height={1516}
   priority
   className="next-image"
 />
