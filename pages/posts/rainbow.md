@@ -13,8 +13,8 @@ import Image from 'next/image'
 <Image
   src="/images/rainbow.png"
   alt="Reload chart"
-  width={3607}
-  height={1929}
+  width={3846}
+  height={1978}
   priority
   className="next-image"
 />
@@ -30,8 +30,8 @@ Equations chart:
 <Image
   src="/images/rainbowsource.png"
   alt="Reload chart"
-  width={3836}
-  height={2009}
+  width={3731}
+  height={1982}
   priority
   className="next-image"
 />
