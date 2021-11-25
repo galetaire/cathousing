@@ -13,8 +13,8 @@ import Image from 'next/image'
 <Image
   src="/images/rendibilitat.png"
   alt="Reload chart"
-  width={3421}
-  height={2105}
+  width={3482}
+  height={1988}
   priority
   className="next-image"
 />
