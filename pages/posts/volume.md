@@ -10,14 +10,7 @@ import Image from 'next/image'
 
 # Evolution of home sales
 
-<Image
-  src="/images/compravenda.png"
-  alt="Reload chart"
-  width={3601}
-  height={1949}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/compravenda.png)
 
 - **Left axis (bars)**: total number of home sales in each quarter.
 - **Right axis (line)**: housing prices in euros per square meter.

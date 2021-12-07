@@ -10,14 +10,7 @@ import Image from 'next/image'
 
 # Ratio between mortgages and home sales
 
-<Image
-  src="/images/ratiohipoteques.png"
-  alt="Reload chart"
-  width={3336}
-  height={1624}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/ratiohipoteques.png)
 
 - **Ratio between mortgages and home sales**: if the ratio is (x), it means there a (x) mortgages per each (1) home sale.
 

@@ -10,14 +10,7 @@ import Image from 'next/image'
 
 # Housing yearly appreciation in nominal value
 
-<Image
-  src="/images/rendibilitat.png"
-  alt="Reload chart"
-  width={3482}
-  height={1988}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/rendibilitat.png)
 
 - **Bars**: green bars denote positive percentage appreciation, and red bars denote negative percentage appreciation.
 - **Red line**: annual inflation rate, represented in percentage.

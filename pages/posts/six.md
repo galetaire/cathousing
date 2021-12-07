@@ -10,14 +10,7 @@ import Image from 'next/image'
 
 # Holistic housing market model: the six-variable chart, Catalonia
 
-<Image
-  src="/images/model.png"
-  alt="Reload chart"
-  width={4425}
-  height={2135}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/model.png)
 
 - **Inflation**: average inflation rate for any given year, e.g. 4% in 2007.
 - **Unemployment**: average unemployment rate for any given year, e.g. 15% in 1998.

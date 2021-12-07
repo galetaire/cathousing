@@ -10,26 +10,12 @@ import Image from 'next/image'
 
 # Evolution of the number of dwellings
 
-<Image
-  src="/images/nombrehabitatges.png"
-  alt="Reload chart"
-  width={1140}
-  height={547}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/nombrehabitatges.png)
 
 - **Left axis (bars)**: total number of new dwellings per year.
 - **Right axis (line)**: existing dwellings per 1000 inhabitants.
 
-<Image
-  src="/images/anyhabitatges.png"
-  alt="Reload chart"
-  width={1122}
-  height={519}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/anyhabitatges.png)
 
 - **Construction period**: number of today existing dwellings per year/period of construction. The **red bar** is a final estimate based on the current pace of construction.
 

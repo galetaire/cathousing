@@ -10,14 +10,7 @@ import Image from 'next/image'
 
 # Annual evolution of housing prices
 
-<Image
-  src="/images/preuhistoric.png"
-  alt="Reload chart"
-  width={4811}
-  height={1956}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/preuhistoric.png)
 
 - **House prices in Catalonia since 1985**: in euros per square meter, inflation-adjusted (real value), unadjusted (nominal value), and accumulated inflation.
 

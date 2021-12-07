@@ -10,14 +10,7 @@ import Image from 'next/image'
 
 # Housing market cycle indicator: the rainbow model, Catalonia
 
-<Image
-  src="/images/rainbow.png"
-  alt="Reload chart"
-  width={3846}
-  height={1978}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/rainbow.png)
 
 - **Real value cycle** ➞ **Red** = strong overprice; **Orange** = slightly overprice; **Yellow** = neutral; **Green** = slightly underprice; **Blue** = strong underprice.
 

@@ -12,15 +12,6 @@ import Image from 'next/image'
 
 ![Reload chart](/images/tenure.png)
 
-<Image
-  src="/images/tenure.png"
-  alt="Reload chart"
-  width={729}
-  height={523}
-  priority
-  className="next-image"
-/>
-
 # Interpretation and observations
 
 The chart from above shows the distribution (%) of homes according to whether the house is owned (fully paid), owned but mortgaged, rented or freely loaned (usually by a relative). Thus, we can see the structure of ownership in Catalonia. Some observations:

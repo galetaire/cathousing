@@ -10,14 +10,7 @@ import Image from 'next/image'
 
 # Housing surplus or deficit
 
-<Image
-  src="/images/difhabitatges.png"
-  alt="Reload chart"
-  width={2929}
-  height={1758}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/difhabitatges.png)
 
 - Difference between housing growth and population growth. Green color implies housing surplus; red color implies housing deficit.
 

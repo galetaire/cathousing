@@ -10,26 +10,12 @@ import Image from 'next/image'
 
 # Relationship between unemployment and prices
 
-<Image
-  src="/images/ocupacio.png"
-  alt="Reload chart"
-  width={3552}
-  height={1823}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/ocupacio.png)
 
 - **Left axis**: HPI (Housing Price Index) inflation adjusted (base 100 = 2000).
 - **Right axis**: average unemployment rate for each year.
 
-<Image
-  src="/images/ocupacio2.png"
-  alt="Reload chart"
-  width={3685}
-  height={1786}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/ocupacio2.png)
 
 - **Left axis**: HPI (Housing Price Index) not inflation adjusted (base 100 = 2015).
 - **Right axis**: average unemployment rate for each quarter.

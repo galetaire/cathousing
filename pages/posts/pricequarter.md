@@ -10,14 +10,7 @@ import Image from 'next/image'
 
 # Quarterly evolution of housing prices
 
-<Image
-  src="/images/preu.png"
-  alt="Reload chart"
-  width={3798}
-  height={1795}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/preu.png)
 
 - **Left axis (line)**: house price in euros per square meter, according to Idealista and to the notaries.
 - **Right axis (area)**: Percentage of difference (in absolute value) between the two compared price sources.

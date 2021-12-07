@@ -10,26 +10,12 @@ import Image from 'next/image'
 
 # Evolution of mortgages
 
-<Image
-  src="/images/credit.png"
-  alt="Reload chart"
-  width={3366}
-  height={1911}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/credit.png)
 
 - **Left axis (bars)**: annual number of mortgages approved and released.
 - **Right axis (line)**: average annual mortgage amount, in euros.
 
-<Image
-  src="/images/credit2.png"
-  alt="Reload chart"
-  width={3489}
-  height={1769}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/credit2.png)
 
 - **Stacked bars (100%)**: Blue = average annual mortgage amount; Orange = average annual housing price.
 

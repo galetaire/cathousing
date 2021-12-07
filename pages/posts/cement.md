@@ -12,11 +12,6 @@ import Image from 'next/image'
 
 ![Reload chart](/images/cement.png)
 
-<Image
-  src="/images/cement.png"
-  alt="Reload chart"
-/>
-
 - **Left axis (bars)**: cement consumption per year, in metric tons.
 - **Right axis (line)**: housing prices in euros per square meter.
 

@@ -10,25 +10,11 @@ import Image from 'next/image'
 
 # Demographic rhythm and home sales: the PAP housing index
 
-<Image
-  src="/images/demografia.png"
-  alt="Reload chart"
-  width={3344}
-  height={1949}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/demografia.png)
 
 - **Purchasing-age population (PAP)**: Home sales (bars); population between 25 and 50 years old (dotted lines); and housing inheritances (purple line).
 
-<Image
-  src="/images/demografia2.png"
-  alt="Reload chart"
-  width={3343}
-  height={1948}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/demografia2.png)
 
 - **PAP disaggregated**: Home sales (bars); population of 35, 40 and 45 years old (colored dotted lines); and housing inheritances (purple line).
 
