@@ -10,15 +10,13 @@ import Image from 'next/image'
 
 # Cement consumption and price
 
-![Reload chart](/images/cement.png "San Juan Mountains")
+![Reload chart](/images/cement.png)
 
 <Image
   src="/images/cement.png"
   alt="Reload chart"
   width={3573}
   height={1560}
-  priority
-  className="next-image"
 />
 
 - **Left axis (bars)**: cement consumption per year, in metric tons.

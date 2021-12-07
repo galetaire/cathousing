@@ -10,6 +10,8 @@ import Image from 'next/image'
 
 # Home sales by type of buyer
 
+![Reload chart](/images/tipuspersona.png)
+
 <Image
   src="/images/tipuspersona.png"
   alt="Reload chart"
