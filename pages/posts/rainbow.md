@@ -20,25 +20,11 @@ The rainbow curve describes a demographic channel in order to evaluate bull or b
 
 Equations chart:
 
-<Image
-  src="/images/rainbowsource.png"
-  alt="Reload chart"
-  width={3731}
-  height={1982}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/rainbowsource.png)
 
 Full dataset chart, from 1964 to 2060:
 
-<Image
-  src="/images/rainbowmax.png"
-  alt="Reload chart"
-  width={3570}
-  height={1931}
-  priority
-  className="next-image"
-/>
+![Reload chart](/images/rainbowmax.png)
 
 # Data sources
 
