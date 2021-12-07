@@ -10,6 +10,8 @@ import Image from 'next/image'
 
 # Housing by type of tenure
 
+![Reload chart](/images/tenure.png)
+
 <Image
   src="/images/tenure.png"
   alt="Reload chart"

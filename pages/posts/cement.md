@@ -15,8 +15,6 @@ import Image from 'next/image'
 <Image
   src="/images/cement.png"
   alt="Reload chart"
-  width={3573}
-  height={1560}
 />
 
 - **Left axis (bars)**: cement consumption per year, in metric tons.

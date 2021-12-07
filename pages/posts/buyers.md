@@ -12,6 +12,11 @@ import Image from 'next/image'
 
 ![Reload chart](/images/tipuspersona.png)
 
+<Image
+  src="/images/tipuspersona.png"
+  alt="Reload chart"
+/>
+
 # Interpretation and observations
 
 The chart from above shows the distribution (%) of home sales according to whether the buyer is national, foreigner or a legal entity (companies, investment funds ...). Thus, we can see who dominates, and who departs the market. Some observations:
