@@ -10,6 +10,8 @@ import Image from 'next/image'
 
 # Cement consumption and price
 
+![Reload chart](/images/cement.png "San Juan Mountains")
+
 <Image
   src="/images/cement.png"
   alt="Reload chart"
