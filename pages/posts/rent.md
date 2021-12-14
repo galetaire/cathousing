@@ -16,7 +16,7 @@ import Image from 'next/image'
 
 # Interpretation and observations
 
-The chart from above shows the ratio between the purchase price and the rental price (all data delivered by idealista.com). In essence, it's an indicator similar to the price-to-earnings ratio (P/E) used in the stock market analysis. It can be interpreted on the following way:
+The chart from above shows the ratio between the purchase price and the rental price. In essence, it's an indicator similar to the price-to-earnings ratio (P/E) used in the stock market analysis. It can be interpreted on the following way:
 
 - At 2008 prices, it took 20.6 years to fully recover a house purchase through rental returns.
 - At 2017 prices, it took 12.2 years to fully recover a house purchase through rental returns.
