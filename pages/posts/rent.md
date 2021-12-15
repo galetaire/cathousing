@@ -12,14 +12,18 @@ import Image from 'next/image'
 
 ![Reload chart](/images/rent.png)
 
-- **Price-to-rent ratio**: number of years to fully recover a home purchase in Catalonia.
+- **Price-to-rent ratio (time)**: number of years to fully recover a home purchase in Catalonia.
+
+![Reload chart](/images/rent2.png)
+
+- **Price-to-rent ratio (%)**: annual percentage of housing rental return in Catalonia.
 
 # Interpretation and observations
 
-The chart from above shows the ratio between the purchase price and the rental price. In essence, it's an indicator similar to the price-to-earnings ratio (P/E) used in the stock market analysis. It can be interpreted on the following way:
+The charts from above show the ratio between the purchase price and the rental price (both in time, years; and in %). In essence, it's an indicator similar to the price-to-earnings ratio (P/E) used in the stock market analysis. It can be interpreted on the following way:
 
-- At 2008 prices, it took 20.6 years to fully recover a house purchase through rental returns.
-- At 2017 prices, it took 12.2 years to fully recover a house purchase through rental returns.
+- At 2008 prices, it took 20.6 years to fully recover a house purchase through rental returns, at a 4.8% annual rental return.
+- At 2017 prices, it took 12.2 years to fully recover a house purchase through rental returns, at a 8.2% annual rental return.
 
 # Data sources
 
