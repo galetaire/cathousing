@@ -22,7 +22,7 @@ import Image from 'next/image'
 
 The charts from above show the ratio between the purchase price and the rental price (both in %; and in time, years). In essence, it's an indicator similar to the price-to-earnings ratio (P/E) used in the stock market analysis. It can be interpreted on the following way:
 
-- At 2008 prices, it took 28.8 years to fully recover a house purchase through rental returns, at a 3.9% annual rental return.
+- At 2008 prices, it took 25.8 years to fully recover a house purchase through rental returns, at a 3.9% annual rental return.
 - At 2017 prices, it took 15.3 years to fully recover a house purchase through rental returns, at a 6.5% annual rental return.
 
 # Data sources
